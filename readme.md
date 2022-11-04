@@ -1,0 +1,1 @@
+## This is a common repository for basic web dev session 2022 organized by iutcs
